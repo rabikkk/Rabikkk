@@ -2,7 +2,7 @@
 
 # Merhaba, ben Rabia DOĞAN! 
 
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/rabikkk)
+[![](https://img.shields.io/github/followers/rabikkk?style=social)](https://www.github.com/rabikkk)
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-dogan-965439155/)
